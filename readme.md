@@ -1,4 +1,4 @@
-# Robot Controller
+# Robot Controller - Smart methods company
 ##### Robot controller is a project to control a robot arm and base remotely. Arm and base can be controlled by manipulating motors degree and directions values.
 
 ## Installing
